@@ -6,5 +6,5 @@
   
   </summary>
   
-  ## Heading
+  *Heading*
 </details>
