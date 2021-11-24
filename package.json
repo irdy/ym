@@ -1,0 +1,24 @@
+{
+  "name": "ym",
+  "version": "1.0.0",
+  "description": "<details>   <summary>     ###Click to expand!",
+  "main": "bloodymap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irdy/ym.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irdy/ym/issues"
+  },
+  "homepage": "https://github.com/irdy/ym#readme",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "underscore": "^1.13.1"
+  }
+}
